@@ -1,0 +1,6 @@
+{"id":"id:\"a\"", "reviews":50, "attributes":{"breakfast":false, "lunch":true, "dinner":true, "latenight":true},"categories":["Restaurant", "Bars"], "state":"WA", "city":"seattle"}
+{"id":"id:\"b\"", "reviews":80, "attributes":{"breakfast":false, "lunch":true, "latenight":false, "dinner":true}, "categories":["Restaurant"], "state":"CA", "city":"san francisco"}
+{"id":"id:\"c\"", "reviews":120, "attributes":{"delivery":true, "lunch":true, "dessert": true, "dinner":true},"categories":["Restaurant"], "state":"NY", "city":"new york"}
+{"id":"id:\"d\"", "name":"Alice", "age":40, "favorites":30}
+{"id":"id:\"e\"", "reviews":70, "attributes":{"breakfast":true, "lunch":true, "dinner":true, "latenight":false}, "categories":["Restaurant", "Brunch"], "state":"CA", "city":"los angels"}
+{"id":"id:\"f\"", "reviews":20,  "attributes":{"breakfast":true, "lunch":true, "latenight":true, "dinner":true}, "categories":["Restaurant", "Brunch", "Bars"], "state":"IL", "city":"chicago"}
